@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkrishna03&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkrishna03" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkrishna03" alt="praveenkrishna03" /></a> </p>
-
 - 👨🏽‍💻 Currently working on [Musify🎧](https://github.com/praveenkrishna03/spotify_alternative)
 
 - 🌱 Currently Exploring **React, ThreeJS**
