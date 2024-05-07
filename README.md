@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Introducing Praveen: A Young and Growing Creative 🌟</h1>
+<h2 align="center">🌟 Introducing Praveen: A Young and Growing Creative 🌟</h2>
 <h3 align="center">🎮Game Developer | 📱 Mobile App Creator | 🎨 CGI Artist | 🎬 Video Editor | 💻 Programming Enthusiast</h3>
 <h4 align="center">Bringing virtual worlds to life through code, art, and imagination.</h4>
 
